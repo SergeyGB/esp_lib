@@ -8,7 +8,7 @@
       "sentence": "Async Web Server for ESP8266 and ESP31B",
       "paragraph": "Async Web Server for ESP8266 and ESP31B",
       "website": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
-      "category": "Other",
+      "category": "BSG",
       "architectures": [
         "esp8266"
       ],
@@ -27,7 +27,7 @@
       "sentence": "Async TCP Library for ESP8266 and ESP31B",
       "paragraph": "Async TCP Library for ESP8266 and ESP31B",
       "website": "https://github.comSergeyGB/ESPAsyncTCP",
-      "category": "Other",
+      "category": "BSG",
       "architectures": [
         "esp8266"
       ],
@@ -46,7 +46,7 @@
       "sentence": "ESP8266 and ESP32 Async WiFi Connection manager with fallback web configuration portal",
       "paragraph": "Library for configuring ESP8266 and ESP32 modules WiFi credentials at runtime.",
       "website": "https://github.com/SergeyGB/ESPAsyncWiFiManager.git",
-      "category": "Communication",
+      "category": "BSG",
       "architectures": [
         "esp8266",
         "esp32"
