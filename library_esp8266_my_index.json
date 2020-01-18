@@ -7,7 +7,7 @@
       "maintainer": "Me-No-Dev",
       "sentence": "Async Web Server for ESP8266 and ESP31B",
       "paragraph": "Async Web Server for ESP8266 and ESP31B",
-      "website": "https://github.com/me-no-dev/ESPAsyncWebServer.git",
+      "website": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
       "category": "Other",
       "architectures": [
         "esp8266"
@@ -15,8 +15,8 @@
       "types": [
         "Arduino"
       ],
-      "repository": "https://github.com/me-no-dev/ESPAsyncWebServer.git",
-      "url": "https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip",
+      "repository": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
+      "url": "https://github.com/SergeyGB/ESPAsyncWebServer/archive/master.zip",
       "archiveFileName": "ESPAsyncWebServer-master.zip"
     },
     {
@@ -26,7 +26,7 @@
       "maintainer": "Me-No-Dev",
       "sentence": "Async TCP Library for ESP8266 and ESP31B",
       "paragraph": "Async TCP Library for ESP8266 and ESP31B",
-      "website": "https://github.com/me-no-dev/ESPAsyncTCP",
+      "website": "https://github.comSergeyGB/ESPAsyncTCP",
       "category": "Other",
       "architectures": [
         "esp8266"
@@ -34,28 +34,29 @@
       "types": [
         "Arduino"
       ],
-      "repository": "https://github.com/me-no-dev/ESPAsyncTCP.git",
-      "url": "https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip",
+      "repository": "https://github.com/SergeyGB/ESPAsyncTCP.git",
+      "url": "https://github.com/SergeyGB/ESPAsyncTCP/archive/master.zip",
       "archiveFileName": "ESPAsyncTCP-master.zip"
     },
     {
-      "name": "ESPAsyncTCP",
-      "version": "1.2.2",
-      "author": "Me-No-Dev",
-      "maintainer": "Me-No-Dev",
-      "sentence": "Async TCP Library for ESP8266 and ESP31B",
-      "paragraph": "Async TCP Library for ESP8266 and ESP31B",
-      "website": "https://github.com/me-no-dev/ESPAsyncTCP",
-      "category": "Other",
+      "name": "ESP Async WiFi Manager",
+      "version": "0.22",
+      "author": "alanswx",
+      "maintainer": "alanswx",
+      "sentence": "ESP8266 and ESP32 Async WiFi Connection manager with fallback web configuration portal",
+      "paragraph": "Library for configuring ESP8266 and ESP32 modules WiFi credentials at runtime.",
+      "website": "https://github.com/SergeyGB/ESPAsyncWiFiManager.git",
+      "category": "Communication",
       "architectures": [
-        "esp8266"
+        "esp8266",
+        "esp32"
       ],
       "types": [
         "Arduino"
       ],
-      "repository": "https://github.com/me-no-dev/ESPAsyncTCP.git",
-      "url": "https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip",
-      "archiveFileName": "ESPAsyncTCP-master.zip"
+      "repository": "https://github.com/SergeyGB/ESPAsyncWiFiManager.git",
+      "url": "https://github.com/SergeyGB/ESPAsyncWiFiManager/archive/master.zip",
+      "archiveFileName": "ESPAsyncWiFiManager-master.zip"
     }
   ]
 }
