@@ -7,7 +7,7 @@
       "maintainer": "Me-No-Dev",
       "sentence": "Async Web Server for ESP8266 and ESP31B",
       "paragraph": "Async Web Server for ESP8266 and ESP31B",
-      "website": "https://github.com/FWeinb/NTPClient",
+      "website": "https://github.com/me-no-dev/ESPAsyncWebServer.git",
       "category": "Other",
       "architectures": [
         "esp8266"
