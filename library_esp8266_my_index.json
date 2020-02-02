@@ -57,6 +57,26 @@
       "repository": "https://github.com/SergeyGB/ESPAsyncWiFiManager.git",
       "url": "https://github.com/SergeyGB/ESPAsyncWiFiManager/archive/master.zip",
       "archiveFileName": "ESPAsyncWiFiManager-master.zip"
+    },
+    {
+      "name": "MAX6675",
+      "version": "2.1.0",
+      "author": "SirUli",
+      "maintainer": "SirUli",
+      "sentence": "MAX6675 from Adafruit updated SirUli",
+      "paragraph": "MAX6675 from Adafruit updated SirUli",
+      "website": "https://github.com/SergeyGB/MAX6675.git",
+      "category": "BSG",
+      "architectures": [
+        "esp8266",
+        "esp32"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/SergeyGB/MAX6675.git",
+      "url": "https://github.com/SergeyGB/MAX6675/archive/master.zip",
+      "archiveFileName": "MAX6675-master.zip"
     }
   ]
 }
