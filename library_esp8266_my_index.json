@@ -77,6 +77,26 @@
       "repository": "https://github.com/SergeyGB/MAX6675.git",
       "url": "https://github.com/SergeyGB/MAX6675/archive/master.zip",
       "archiveFileName": "MAX6675-master.zip"
+    };
+    {
+      "name": "AsyncMqttClient",
+      "version": "0.8.2",
+      "author": "Marvin ROGER",
+      "maintainer": "Marvin ROGER",
+      "sentence": "An Arduino for ESP8266 / ESP32 asynchronous MQTT client implementation",
+      "paragraph": "An Arduino for ESP8266 / ESP32 asynchronous MQTT client implementation",
+      "website": "https://github.com/SergeyGB/async-mqtt-client.git",
+      "category": "BSG",
+      "architectures": [
+        "esp8266",
+        "esp32"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/SergeyGB/async-mqtt-client.git",
+      "url": "https://github.com/SergeyGB/async-mqtt-client/archive/master.zip",
+      "archiveFileName": "async-mqtt-client-master.zip"
     }
   ]
 }
