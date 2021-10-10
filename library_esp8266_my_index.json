@@ -77,7 +77,7 @@
       "repository": "https://github.com/SergeyGB/MAX6675.git",
       "url": "https://github.com/SergeyGB/MAX6675/archive/master.zip",
       "archiveFileName": "MAX6675-master.zip"
-    };
+    },
     {
       "name": "AsyncMqttClient",
       "version": "0.8.2",
